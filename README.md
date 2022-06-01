@@ -1,4 +1,4 @@
-<div align="center" fort-size=6><h1> Hi, thanks for visiting my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1></div>
+<div align="center" fort-size=6><h1> Hi, thanks for visiting my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"></h1></div>
 
 &nbsp;
 ## 🚀 About Me
