@@ -1,8 +1,8 @@
-<div align="center" fort-size=6><h1> Hi, thanks for visiting my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"></h1></div>
+<div align="center" font-size=6><h1> Hi, thanks for visiting my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"></h1></div>
 
 &nbsp;
 ## 🚀 About Me
-### My name is Władysław. 
+### My name is Wladyslaw. 
 
 I'm passionate about Front-end web development and have found myself especially in creating Front-end web applications. However the building responsive websites also make me fun.
 
@@ -14,7 +14,7 @@ Before finding myself in programming I gained broad skills and experience in sal
 &nbsp;
 ## 📌 What I am currently devoting to?
 - delving into React, Redux and JavaScript
-- learning how to write automated tests with Vitest & Jest
+- learning the basics as well as advanced concepts of NodeJS
 - looking for a job to create amazing apps and webs
 
 &nbsp;
@@ -23,6 +23,7 @@ Before finding myself in programming I gained broad skills and experience in sal
 <img alt="VSC" src="https://img.shields.io/badge/-Visual Studio Code-lightgrey?style=for-the-badge&logo=visualstudio&logoColor=0078d7" />
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
 <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" />
+<img alt="NPM" src="https://img.shields.io/badge/-NPM-%23C53635?style=for-the-badge&logo=npm&logoColor=white" />
 </p>
 <p> 
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -41,7 +42,13 @@ Before finding myself in programming I gained broad skills and experience in sal
 <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=for-the-badge&logo=styled-components&logoColor=white" />
 </p>
+<p>
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+<img alt="Express" src="https://img.shields.io/badge/-Express-F7F7F7?style=for-the-badge&logo=Express&logoColor=black" />
+<img alt="Postman" src="https://img.shields.io/badge/-Postman-F76935?style=for-the-badge&logo=Postman&logoColor=white" />
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
 &nbsp;
 ## ✉️ Contact me
-### vbalandinv@gmail.com
+### wladyslaw.balandin@gmail.com
