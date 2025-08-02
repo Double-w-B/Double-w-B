@@ -4,11 +4,13 @@
 ## 🚀 About Me
 ### My name is Wladyslaw. 
 
-I'm passionate about Front-end web development and have found myself especially in creating Front-end web applications. However the building responsive websites also make me fun.
+Passionate Full-Stack Software Developer, specializing in scalable and high-quality solutions.
 
-Programming for me, it's a logic-based creativity which makes me think outside of the box and to believe that there is a solution to every problem. As a self-taught developer, I really know the hard parts and the difficult topics when learning new or improving on already-known language. 
+Skilled in Front-End (React, JS/TypeScript) and Back-End (Laravel, PHP) development, I focus on delivering clean, maintainable code that ensures efficiency and stability. I prioritize building user-friendly applications with a strong emphasis on quality and performance throughout the development lifecycle.
 
-Before finding myself in programming I gained broad skills and experience in sales, account management, digital marketing and event industry.
+In addition to my technical expertise, I bring strong Soft skills such as effective communication, problem-solving and adaptability that support collaboration.
+
+Currently, I am leveraging my experience to drive team performance while continuing my own growth as a developer 🦾
 
 
 &nbsp;
@@ -20,7 +22,10 @@ Before finding myself in programming I gained broad skills and experience in sal
 &nbsp;
 ## ⚡️ Technologies I use on a daily basis 
 <p> 
+<img alt="PHPSTORM" src="https://img.shields.io/badge/-PHPSTORM-000?style=for-the-badge&logo=phpstorm&logoColor=893EE7" />
 <img alt="VSC" src="https://img.shields.io/badge/-Visual Studio Code-lightgrey?style=for-the-badge&logo=visualstudio&logoColor=0078d7" />
+</p>
+<p> 
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
 <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" />
 <img alt="NPM" src="https://img.shields.io/badge/-NPM-%23C53635?style=for-the-badge&logo=npm&logoColor=white" />
@@ -28,25 +33,39 @@ Before finding myself in programming I gained broad skills and experience in sal
 <p> 
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img alt="github" src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+<img alt="gitlab" src="https://img.shields.io/badge/-GitLab-2B1F3D?style=for-the-badge&logo=gitlab&logoColor=F46A25" />
 </p>
 <p>  
 <img alt="js" src="https://img.shields.io/badge/-JavaScirpt-323330?style=for-the-badge&logo=javascript&logoColor=F0DB4F" />
+<img alt="ts" src="https://img.shields.io/badge/-TYPESCRIPT-F9FAFB?style=for-the-badge&logo=typescript&logoColor=2F74C0" />
 </p>
 <p> 
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="css3" src="https://img.shields.io/badge/-CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" />
 <img alt="sass" src="https://img.shields.io/badge/-SCSS-cd6799?style=for-the-badge&logo=sass&logoColor=white" />
+<img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=for-the-badge&logo=styled-components&logoColor=white" />
+<img alt="mui" src="https://img.shields.io/badge/-material%20ui-EAEAEA?style=for-the-badge&logo=mui&logoColor=2F74C0" />
 </p>
 <p>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
 <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-<img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=for-the-badge&logo=styled-components&logoColor=white" />
 </p>
 <p>
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
 <img alt="Express" src="https://img.shields.io/badge/-Express-F7F7F7?style=for-the-badge&logo=Express&logoColor=black" />
-<img alt="Postman" src="https://img.shields.io/badge/-Postman-F76935?style=for-the-badge&logo=Postman&logoColor=white" />
+<img alt="laravel" src="https://img.shields.io/badge/-laravel-fff?style=for-the-badge&logo=laravel&logoColor=F6360B" />
+</p>
+<p>
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img alt="mysql" src="https://img.shields.io/badge/-mysql-4A7DA4?style=for-the-badge&logo=mysql&logoColor=F29418" />
+<img alt="postgresql" src="https://img.shields.io/badge/-postgresql-2F5E8D?style=for-the-badge&logo=postgresql&logoColor=fff" />
+</p>
+<p>
+<img alt="jest" src="https://img.shields.io/badge/-jest-EFD81D?style=for-the-badge&logo=jest&logoColor=944058" />
+</p>
+<p>
+<img alt="Postman" src="https://img.shields.io/badge/-Postman-F76935?style=for-the-badge&logo=Postman&logoColor=white" />
+<img alt="swagger" src="https://img.shields.io/badge/-swagger-84B93E?style=for-the-badge&logo=swagger&logoColor=2F74C0" />
 </p>
 
 &nbsp;
